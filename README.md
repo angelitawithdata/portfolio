@@ -1,1 +1,26 @@
-# portfolio
+#  👋👋 Hello
+
+__Welcome to my humble GitHub!__
+
+Here, you'll find a collection of projects showcasing my skills and interests in machine learning, data visualisation, and statistical analysis.
+
+## Table of Contents
+- [Project 1: Airbnb House Pricing](./project1/README.md)
+- [Project 2: Customer Churn Model](./project1/README.md)
+- [Project 3: Airbnb House Pricing](./project1/README.md)
+- [Tools and Technologies](#tools-and-technologies)
+
+## Tools and Technologies
+- Programming Languages: Python, SQL, R, DAX, HTML
+- Tools and Platforms:
+  - Azure Services (Azure DevOps, Azure ML, Azure Synapse, Azure DF, etc)
+  - Databricks
+  - Git
+  - Google Analytics
+  - Matlab
+  - Power BI
+  - SSMS
+  - Tableau
+  - Qualtrics
+
+_Enjoy!_ :computer:
