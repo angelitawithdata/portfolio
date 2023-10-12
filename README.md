@@ -7,7 +7,7 @@ Here, you'll find a collection of projects showcasing my skills and interests in
 ## Table of Contents
 - [Project 1: Airbnb House Pricing](./project1/README.md)
 - [Project 2: Customer Churn Model](./project2/README.md)
-- [Project 3: insert_name](./project3/README.md)
+- [Project 3: Duplicate Detection](./project3/README.md)
 - [Tools and Technologies](#tools-and-technologies)
 
 ## Tools and Technologies
