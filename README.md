@@ -5,7 +5,7 @@ __Welcome to my humble GitHub!__
 Here, you'll find a collection of projects showcasing my skills and interests in machine learning, data visualisation, and statistical analysis.
 
 ## Table of Contents
-- [Project 1: Ashfield House Pricing](./project1/README.md)
+- [Project 1: Ashfield House Pricing]([./project1/README.md](https://github.com/angelitawithdata/Forecast-House-Price))
 - [Project 2: Airbnb Listing Value](./project2/README.md)
 - [Project 3: Duplicate Detection](./project3/README.md)
 - [Tools and Technologies](#tools-and-technologies)
