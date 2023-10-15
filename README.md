@@ -6,7 +6,7 @@ Here, you'll find a collection of projects showcasing my skills and interests in
 
 ## Table of Contents
 - [Project 1: Forecast House Pricing](https://github.com/angelitawithdata/Forecast-House-Price)
-- [Project 2: Forecast Airbnb Listing Value](./project2/README.md)
+- [Project 2: Forecast Airbnb Listing Value](https://github.com/angelitawithdata/Forecast-Airbnb-Listing/tree/main)
 - [Project 3: Duplicate Detection](./project3/README.md)
 - [Tools and Technologies](#tools-and-technologies)
 
